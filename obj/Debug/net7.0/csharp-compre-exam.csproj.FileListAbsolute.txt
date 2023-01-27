@@ -1,0 +1,15 @@
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\bin\Debug\net7.0\csharp-compre-exam.exe
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\bin\Debug\net7.0\csharp-compre-exam.deps.json
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\bin\Debug\net7.0\csharp-compre-exam.runtimeconfig.json
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\bin\Debug\net7.0\csharp-compre-exam.dll
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\bin\Debug\net7.0\csharp-compre-exam.pdb
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.csproj.AssemblyReference.cache
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.AssemblyInfoInputs.cache
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.AssemblyInfo.cs
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.csproj.CoreCompileInputs.cache
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.dll
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\refint\csharp-compre-exam.dll
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.pdb
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\csharp-compre-exam.genruntimeconfig.cache
+C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\csharp-compre-exam\obj\Debug\net7.0\ref\csharp-compre-exam.dll
